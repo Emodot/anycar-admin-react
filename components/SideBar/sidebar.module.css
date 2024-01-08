@@ -1,0 +1,10 @@
+.sidebar_ctn {
+  width: 17%;
+  height: 100vh;
+  background-color: #F6F2F5;
+  padding: 50px 20px 50px 40px;
+}
+
+.logo {
+  width: 50%;
+}
